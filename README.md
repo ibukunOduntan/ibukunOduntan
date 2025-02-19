@@ -9,7 +9,7 @@
 
 ###
 
-<h3 align="left">👩‍💻 Bio</h3>
+<h3 align="left">👩‍💻 A few facts about me...</h3>
 
 ###
 
