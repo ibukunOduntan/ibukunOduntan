@@ -7,8 +7,8 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ibukun-oduntan"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /></a>
-  <a href="mailto:ibukunod@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" /></a>
+  <a href="https://www.linkedin.com/in/ibukun-oduntan" title="LinkedIn Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"></a>
+  <a href="mailto:ibukunod@gmail.com"><img src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" height="22" alt="gmail logo" /></a>
 </div>
 
 ###
