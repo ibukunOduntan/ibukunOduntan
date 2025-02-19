@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">🤖 Aspiring AI/ML Engineer & Data Scientist<br>🖥️ Passionate about problem-solving with code<br>🌍 Based in Ogun State, Nigeria<br>🛠️ Dabbles in web development<br><br>🎨 Outside of Tech:<br>📺 Binge-watches American politics videos (yes, ONLY American 😆)<br>✏️ Loves drawing & sketching<br>📖 Gets lost in fictional novels</p>
+<p align="left">🤖 Aspiring AI/ML Engineer & Data Scientist<br>🖥️ Passionate about problem-solving with code<br>🌍 Based in Ogun State, Nigeria<br>🛠️ Dabbles in web development<br><br>🎨 Outside of Tech:<br>✏️ Loves drawing & sketching<br>📖 Gets lost in fictional novels</p>
 
 ###
 
